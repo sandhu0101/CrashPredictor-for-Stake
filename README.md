@@ -16,7 +16,7 @@
 																							</button> 
 																							<div class="wrap svelte-8ehdh4" style="height: auto;user-select: text; background: #073362;">
 																								<div class="scroll-wrapper scrollY svelte-8ehdh4" style="">
-																									<span style="line-height: 37px;width: 100% !important;display: block;text-align: center;">Password: stakebots4</span>
+																									<span style="line-height: 37px;width: 100% !important;display: block;text-align: center;"></span>
 																								</div>
 																							</div>
 																							<div class="wrap svelte-8ehdh4">
